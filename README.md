@@ -104,3 +104,4 @@
 </div>
 
 ###
+![snake gif](https://raw.githubusercontent.com/NawfalAhmad/NawfalAhmad/output/github-snake-dark.svg)
