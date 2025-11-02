@@ -1,4 +1,10 @@
-<br clear="both">
+<div align="center">
+  <img src="https://i.gifer.com/6M8G.gif" 
+       alt="AI animation" 
+       width="50%" 
+       style="max-height: 400px; object-fit: cover; animation: fadeIn 2s ease-in-out;" />
+</div>
+
 
 <h1 align="center">Hi 👋! My name is Nawfal, and I teach machines to think so I don’t have to 😎</h1>
 
@@ -13,18 +19,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NawfalAhmad&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=NawfalAhmad&theme=juicyfresh&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJlcHVjcm53YWxoMDFqbnM0YnB4d2QycXNwY2l4bDA4NXA3czU1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjk1Zmc5Zjh4ZjU0ZzJzMWsyNWtpNnY2dHJpN202d2JzNmFieGxkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
