@@ -1,26 +1,42 @@
 <div align="center">
-  <img src="https://i.gifer.com/6M8G.gif" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUyczZoMXFqcTRyaHF1bHhnMG5iaHJpencwZGJ5YXhrMHo1YjJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfyhcSaiRsaha/giphy.gif" 
        alt="AI animation" 
        width="50%" 
        style="max-height: 400px; object-fit: cover; animation: fadeIn 2s ease-in-out;" />
 </div>
-
-
 <h1 align="center">Hi 👋! My name is Nawfal, and I teach machines to think so I don’t have to 😎</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-###
-
-<br clear="both">
-
+<!-- Profile Views Counter with Animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NawfalAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=MY%20STATS" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=NawfalAhmad&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NawfalAhmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NawfalAhmad&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=NawfalAhmad&theme=juicyfresh&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  
+  <img src="https://komarev.com/ghpvc/?username=NawfalAhmad&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/NawfalAhmad?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/NawfalAhmad?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Stars"/>
+  
 </div>
 
-###
+## 📊 GitHub Analytics
+
+<!-- GitHub Streak -->
+<div align="center">
+  <a href="https://github.com/NawfalAhmad">
+    <img src="https://nirzak-streak-stats.vercel.app?user=NawfalAhmad&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/NawfalAhmad">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NawfalAhmad&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
+  </a>
+</div>
+
+<!-- Trophies -->
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=mrwhite4939&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -95,6 +111,20 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+</div>
+
+## 🗣️ Languages I Speak
+
+<div align="center">
+
+| Language | Fluency Level | Proficiency |
+|:---:|:---:|:---:|
+| **English** | ▰▰▰▰▰▰▰▰▰▰ | **Native** |
+| **Hindi** | ▰▰▰▰▰▰▰▰▰▰ | **Professional** |
+| **Tamil** | ▰▰▰▰▰▰▰▰▰▰ | **Professional** |
+| **Malayalam** | ▰▰▰▰▱▱▱▱▱▱ | **Beginner** |
+| **Kannada** | ▰▰▱▱▱▱▱▱▱▱ | **Basic** |
+
 </div>
 
 ###
